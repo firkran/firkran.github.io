@@ -724,3 +724,4 @@ Eskimi.com, eas-2020000005, RESELLER
 markappmedia.site, 313916, RESELLER
 boostappi.com, 10013, RESELLER
 wortise.com, 2381ee1c-8f19-4dec-ba8b-c0d273e40401, DIRECT
+wortise.com, c44ddb94-ab0d-42c3-89d2-f0a20262d36a, DIRECT
